@@ -1,5 +1,7 @@
-$( document ).ready(function() {
-    console.log( "ready!" );
-  showAlert("HACKING", "PLEASE DOWNLOAD ANTIVIRUS SOFTWARE")
+// $( document ).ready(function() {
+//     console.log( "ready!" );
+//   showAlert("HACKING", "PLEASE DOWNLOAD ANTIVIRUS SOFTWARE")
 
-});
+// });
+
+alert("Hello")
