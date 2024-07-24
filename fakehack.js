@@ -3,5 +3,7 @@
 //   showAlert("HACKING", "PLEASE DOWNLOAD ANTIVIRUS SOFTWARE")
 
 // });
-
-console.log("hello")
+function run_hack(){
+  
+  console.log("hello")
+}
