@@ -6,4 +6,5 @@
 function run_hack(){
   
   console.log("hello")
+  alert("Hello")
 }
